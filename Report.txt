@@ -1,3 +1,7 @@
 Weekly Reports:
 
-23/09/2025: Got in touch, decided who the group leader was,
+23/09/2025: Got in touch, decided who the group leader was, we chose who was doing what subsystem;
+- Roman: USU Student App
+- McKenzie: USU OS
+- Santiago: SU Management System
+- Clinton: Society Leader App
