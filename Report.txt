@@ -10,4 +10,5 @@ Got in touch, decided who the group leader was, we chose who was doing what subs
 
 30/09/2025:
 Time: 1 hour
+Broke down the requirements for each substystem in a UML diagram;
 
