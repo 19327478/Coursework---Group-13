@@ -2,7 +2,7 @@ Weekly Reports:
 
 23/09/2025:
 Time: 1 hour
-Got in touch, decided who the group leader was, we chose who was doing what subsystem;
+Got in touch, decided who the group leader was (Roman), we chose who was doing what subsystem;
 - Roman: A mobile application for the student members to keep update to the events of the societies, university-specific student unions and the nation-wide events. 
 - McKenzie: A desktop computer application that enables the USU officers to operation the federation of student unions.   
 - Santiago: mobile application for society leaders to manage and operate societies.
