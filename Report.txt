@@ -4,7 +4,7 @@ Weekly Reports:
 Time: 1 hour
 Got in touch, decided who the group leader was, we chose who was doing what subsystem;
 - Roman: USU Student App
-- McKenzie: USU OS
+- McKenzie: •	A desktop computer application that enables the USU officers to operation the federation of student unions.   
 - Santiago: A web-based system for the operations of university-specific student unions
 - Clinton: Society Leader App
 
