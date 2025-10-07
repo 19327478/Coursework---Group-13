@@ -6,7 +6,7 @@ Got in touch, decided who the group leader was, we chose who was doing what subs
 - Roman: USU Student App
 - McKenzie: •	A desktop computer application that enables the USU officers to operation the federation of student unions.   
 - Santiago: A web-based system for the operations of university-specific student unions
-- Clinton: Society Leader App
+- Clinton: mobile application for society leaders to manage and operate societies. 
 
 30/09/2025:
 Time: 1 hour
