@@ -14,4 +14,4 @@ Broke down the requirements for each substystem in a UML diagram;
 
 7/10/2025:
 Time: 1 hour
-Completing UML diagrams for each subsystem
+Completing UML diagrams for each subsystem, assigning users for each subsystems, writing use case descriptions
