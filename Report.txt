@@ -5,10 +5,13 @@ Time: 1 hour
 Got in touch, decided who the group leader was, we chose who was doing what subsystem;
 - Roman: USU Student App
 - McKenzie: USU OS
-- Santiago: SU Management System
+- Santiago: A web-based system for the operations of university-specific student unions
 - Clinton: Society Leader App
 
 30/09/2025:
 Time: 1 hour
 Broke down the requirements for each substystem in a UML diagram;
 
+7/10/2025:
+Time: 1 hour
+Completing UML diagrams for each subsystem
